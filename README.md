@@ -4,35 +4,35 @@
 
 ## What is Wealthy Habits (WHB)?
 
-Wealthy Habits, WHB is a bridge between crypto and entertainment communities that influences an innovative lifestyle, featuring an all in one event platform. Wealthy Habits offers production services and has a clothing platform. Wealthy Habits Crypto will take all of these relations created with nightlife, events, and collaborations and utilize them to power their crypto project.
+Wealthy Habits, WHB is a bridge between crypto and entertainment communities that influences an innovative lifestyle, featuring an all-in-one event platform. Wealthy Habits offers production services and has a clothing platform. Wealthy Habits Crypto will take all of these relations created with nightlife, events, and collaborations and utilize them to power their crypto project.
 
-## What makes WHB unique?
+## What makes Wealthy Habits (WHB) unique?
 
 Wealthy Habits WHB is one of a kind in terms of what it has to offer. Before being a cryptocurrency, there was already promotional value in knowing what Wealthy Habits is. For example, you have access to nightclubs and events by being on the email list. The current consumer of Wealthy Habits has already gained trust in the services offered, and it will translate immediately through crypto as well. Wealthy Habits has done many large-scale concerts with recognizable celebrities that have gained interest in the brand even before gaining a presence in the crypto community.
 
-## Who are the founders of WHB?
+## Who are the founders of Wealthy Habits (WHB)?
 Wealthy Habits, WHB was founded by Luli Jonuzi, Tim Emini, Argetim Ramadani, and Jeton Useini.
 
 * Luli Jonuzi  
 Co-Founder & CEO  
-Has six years of experience in the crypto field, specializing in the construction and maintenance of big mining farms, as well as crypto trading, to ensure Wealthy Habits Crypto is doing all necessary efforts to meet the needs of its investors.
+Luli has six years of experience in the crypto field, he specializes in the construction and maintenance of big mining farms, as well as crypto trading, to ensure Wealthy Habits Crypto is doing all necessary efforts to meet the needs of its investors.
 
 * Tim Emini  
 Co-Founder & Public Relations  
 (CEO of Wealthy Habits Entertainment)  
-Has been growing Wealthy Habits as a brand for over 8 years and has dedicated his motive to gaining all the proper collaborations to make WHB Crypto benefit the consumer from the initial launch. He's well-known for his nightlife event hosting expertise, which he uses to ensure that our primary goals for events and nightlife are met to the greatest levels.
+Tim has been growing Wealthy Habits as a brand for over 8 years and has dedicated his motive to gaining all the proper collaborations to make WHB Crypto benefit the consumer from the initial launch. He's well-known for his nightlife event hosting expertise, which he uses to ensure that our primary goals for events and nightlife are met to the greatest levels.
 
 * Argetim Ramadani  
 Co-Founder & Software Engineer  
-Has four years of expertise in IT industry technologies and software development areas such as Web, Mobile, and Blockchain Development to ensure that all of our technology-related development and maintenance meets all of the current quality and security industry standards.
+Argetim has four years of expertise in IT industry technologies and software development areas such as Web, Mobile, and Blockchain Development to ensure that all of our technology-related development and maintenance meets all of the current quality and security industry standards.
 
 * Jeton Useini  
 Co-Founder & Public Relations  
-Has dedicated expertise in developing and executing all aspects of public outreach and developing high-performance and dedicated teams to meet challenging corporate objectives.
+Jeton has dedicated expertise in developing and executing all aspects of public outreach and developing high-performance and dedicated teams to meet challenging corporate objectives.
 
-## WHB Tokenomics
+## Wealthy Habits (WHB) Tokenomics
 
-* Launched on 22/11/2021.
+* Launched on November 22nd, 2021.
 
 * WHB token is a non-mintable BEP20 token deployed on Binance Smart Chain with a max supply of 500,000,000.00 tokens (five hundred million).
 
