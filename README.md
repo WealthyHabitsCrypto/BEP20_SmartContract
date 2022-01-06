@@ -2,28 +2,46 @@
 
 **[whbcrypto.com](https://whbcrypto.com)**
 
-Wealthy Habits (WHB) Crypto will be a bridge between crypto and entertainment
-communities that influences an innovative lifestyle, featuring an all in one event platform. 
-Our team is committed to creating a seamless experience for the
-consumer and all their event demands. Our token will develop relationships with
-ticketing sites and venues to provide an alternative purchase method with benefits.
-This method will give new users a closer connection to crypto. Our collaborative focus
-will be nightlife, concerts, and sporting events.
+## What is Wealthy Habits (WHB)?
 
-As we establish all these relations, we will prepare our trade services. With WHB Crypto,
-you will buy merchandise from Wealthy Habits soon after through customer relation
-sites. One primary source of growth will be nightlife promotional access with WHB. We
-will offer QR codes for entry in exchange for WHB to high-end venues worldwide. As we
-build these relationships, we will acquire a strong association with talent buying agencies. These agencies book DJs, artists, and influencers for events. While nightlife is
-a clear focus for us, we plan not to steer away from all types of events, such as sports,
-operas, or experiences. Anything that you can buy a ticket for has the potential to be
-obtained by WHB.
+Wealthy Habits, WHB is a bridge between crypto and entertainment communities that influences an innovative lifestyle, featuring an all in one event platform. Wealthy Habits offers production services and has a clothing platform. Wealthy Habits Crypto will take all of these relations created with nightlife, events, and collaborations and utilize them to power their crypto project.
 
-As we gain users and choose which businesses match our core goals, we will introduce
-the Wealthy Habits interactive app that will feature much more than event ticketing.
-One of the main functionalities of this app will be to our WHB Crypto Wallet and a
-combination with a Smartwatch App which will make the storage, usage, and exchange of
-WHB more fun, secure, and easy. This app will also feature all the third-party relations
-in one place, such as airfare, exotic car rental, and space rental. Our team is passionate
-about the growth of Wealthy Habits Crypto, and we see no limit to what it is capable of
-becoming.
+## What makes WHB unique?
+
+Wealthy Habits WHB is one of a kind in terms of what it has to offer. Before being a cryptocurrency, there was already promotional value in knowing what Wealthy Habits is. For example, you have access to nightclubs and events by being on the email list. The current consumer of Wealthy Habits has already gained trust in the services offered, and it will translate immediately through crypto as well. Wealthy Habits has done many large-scale concerts with recognizable celebrities that have gained interest in the brand even before gaining a presence in the crypto community.
+
+## Who are the founders of WHB?
+Wealthy Habits, WHB was founded by Luli Jonuzi, Tim Emini, Argetim Ramadani, and Jeton Useini.
+
+* Luli Jonuzi  
+Co-Founder & CEO  
+Has six years of experience in the crypto field, specializing in the construction and maintenance of big mining farms, as well as crypto trading, to ensure Wealthy Habits Crypto is doing all necessary efforts to meet the needs of its investors.
+
+* Tim Emini  
+Co-Founder & Public Relations  
+(CEO of Wealthy Habits Entertainment)  
+Has been growing Wealthy Habits as a brand for over 8 years and has dedicated his motive to gaining all the proper collaborations to make WHB Crypto benefit the consumer from the initial launch. He's well-known for his nightlife event hosting expertise, which he uses to ensure that our primary goals for events and nightlife are met to the greatest levels.
+
+* Argetim Ramadani  
+Co-Founder & Software Engineer  
+Has four years of expertise in IT industry technologies and software development areas such as Web, Mobile, and Blockchain Development to ensure that all of our technology-related development and maintenance meets all of the current quality and security industry standards.
+
+* Jeton Useini  
+Co-Founder & Public Relations  
+Has dedicated expertise in developing and executing all aspects of public outreach and developing high-performance and dedicated teams to meet challenging corporate objectives.
+
+## WHB Tokenomics
+
+* Launched on 22/11/2021.
+
+* WHB token is a non-mintable BEP20 token deployed on Binance Smart Chain with a max supply of 500,000,000.00 tokens (five hundred million).
+
+* 275,000,000.00 (two hundred seventy-five million) WHB tokens are provided as liquidity and available for swap on the Decentralized Exchange PancakeSwap V2.
+
+* To prevent rug pulls, enhance community/investors trust, and better security for our community/investors, the LP-Tokens (proof of liquidity) have been burned.
+
+* 225,000,000.00 (two hundred twenty-five million) WHB tokens are burned at launch in 2 phases.
+
+* 60,000,000.00 (sixty million) WHB tokens are stored in a Multisig Gnosis Safe wallet where any transaction requires the confirmation of 3 out of 4 owners. These tokens will be used solely for project funding such as Software Applications Development, Legal, Audit, and Operations & Marketing
+
+* From every transaction, there is a 1% fee which is stored in a Multisig Gnosis Safe wallet where any transaction requires the confirmation of 3 out of 4 owners. These tokens will be used for partnerships and collaborations airdrops.
